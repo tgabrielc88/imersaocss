@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg');
+    background-size: auto 200vh;
+    font-family: Arial;
+    height: 200vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }   
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+    }
+  
+  .site-subtitle {
+    font-style: italic
+  }
+  
+  
+  
